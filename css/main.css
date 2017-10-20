@@ -1,0 +1,53 @@
+div {
+    border: none;
+    box-sizing: border-box;
+    display: block;
+    height: 300px;
+    width: 300px;
+    box-sizing: border-box;
+    background-color: gold;
+    margin-bottom: 15px;
+}
+
+.a-box {
+    background-color: red;
+}
+
+.b-box {
+    background-color: purple;
+    box-sizing: border-box;
+    height: 150px;
+    width: 150px;
+    position: relative;
+    top: 75px;
+    left: 75px;
+}
+
+.c-box {
+    background-color: yellow;
+    height: 75px;
+    width: 75px;
+}
+
+.d-box {
+    background-color: blue;
+}
+
+.e-box {
+    background-color: green;
+    box-sizing: border-box;
+    height: 150px;
+    width: 150px;
+    position: relative;
+    top: 75px;
+    left: 75px;
+}
+
+.f-box {
+    background-color: black;
+    height: 75px;
+    width: 75px;
+    position: relative;
+    top: -75px;
+    left: -75px;
+}
